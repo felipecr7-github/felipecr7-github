@@ -3,10 +3,12 @@
 Meu nome é Felipe
 -
 
-- Estou estudando no alura
+- Estou estudando no [ALURA](https:/WWW.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Ultilizo esse espaço para minha organizção e compartilhamento dos meus projetos desenvolvidos
 
 - ### Você entrar em contato comigo 📧
 
   
+![](https://media.tenor.com/TM0Xkja0docAAAAi/cr7-si.gif) ![](https://media.tenor.com/GHpbIHPwhHUAAAAj/pessi.gif)
+
