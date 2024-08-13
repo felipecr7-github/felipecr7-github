@@ -10,5 +10,5 @@ Meu nome é Felipe
 - ### Você entrar em contato comigo 📧
 
   
-![](https://media.tenor.com/TM0Xkja0docAAAAi/cr7-si.gif) ![](https://media.tenor.com/GHpbIHPwhHUAAAAj/pessi.gif)
+![](https://media.tenor.com/TM0Xkja0docAAAAi/cr7-si.gif) 
 
